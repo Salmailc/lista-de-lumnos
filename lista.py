@@ -4,5 +4,6 @@ print ("Alumno 1")
 #Alumno Flori
 #Alumno Chompiras
 #Alumno Osa
+#Alumno Mimoso
 #Alumno Arena
 #Alumno Nina
